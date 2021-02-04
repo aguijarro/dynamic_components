@@ -1,0 +1,15 @@
+.QuizWrongAnswersButton {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.QuizWrongAnswersButton button {
+  background: #f0c14b;
+  font-size: 16px;
+  width: 25%;
+  border-radius: 4px;
+  border: 2px solid #a88734;
+  padding: 4px 8px;
+  cursor: pointer;
+}
